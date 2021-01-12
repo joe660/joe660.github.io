@@ -10,7 +10,7 @@
       
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/b5a60282a6716b19cb04eac6c9f42dd.jpg" width="100%">      % 插入证件照代码
     </td>
         <td width="75%">
 
