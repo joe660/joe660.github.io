@@ -1,11 +1,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张志鹏</h1>
-      <p><b>2019级硕士研究生</b></p>
-      <p><b>郑州大学河南先进技术研究院</b></p>
-      <p><b>邮箱：zhangzp.zzu@outlook.com</b></p>
-      <p><b>研究方向：计算机视觉、医学影像处理、数据挖掘</b></p>     
+      <h1>Zhipeng zhang</h1>
+      <p><b>Master's degree 2019</b></p>
+      <p><b>Henan Institute of advanced technology, Zhengzhou University</b></p>
+      <p><b>E-mail：zhangzp.zzu@outlook.com</b></p>
+      <p><b>Research interests: computer vision, medical image processing, data mining</b></p>     
     </td>
   </tr>
 </table>
